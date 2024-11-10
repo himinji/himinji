@@ -23,4 +23,7 @@ I am third year Comp-eng student at Hongik University.
   * Learning front-end in Hongik GDSC
 * Pursuing a teaching certificate and exploring career options   
 <br>
+### 🌱 I'm studying
 ### 📫 How to reach me   
+<a href="https://github.com/himinji" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
