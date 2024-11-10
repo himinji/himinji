@@ -21,11 +21,14 @@ Here are some ideas to get you started:
   - learning **front-end development at Hongik GDSC**
 - pursuing **a teaching certificate and exploring career options**
 ### 📫 How to reach me
-**hi21minji@gmail.com**
 <a href="hi21minji@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/hi21minji@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/minji_rang" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/himinji" target="_blank">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+
 <p align="left">
 <a href="https://instagram.com/minji_rang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minji_rang" height="30" width="40" /></a>
 </p>
