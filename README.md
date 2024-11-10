@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **himinji/himinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Minji Kwon who is third year Comp-eng student at Hongik University.
+I am Minji Kwon who is third year Comp-eng student at Hongik University.   
 
-## 🌱 I'm studying
+### 🌱 I'm studying
 
-Studying Computer Engineering at Hongik University
+Studying Computer Engineering at Hongik University   
 Pursuing a teaching certificate and exploring career options
