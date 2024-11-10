@@ -31,5 +31,11 @@ I am third year Comp-eng student at Hongik University.
 
 <br>
 
+<a href="https://github.com/himinji" target="_blank">
+<img src="https://img.shields.io/badge/Github-000?style=social&logo=Github&logoColor=181717"/></a>
+
+<a href="https://www.instagram.com/so0yeon__?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himinji&show_icons=true&locale=en&layout=compact" alt="himinji" /></p>
 
