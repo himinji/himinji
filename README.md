@@ -29,12 +29,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="hi21minji@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/hi21minji@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/minji_rang" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 -->
+
 &nbsp;&nbsp;
 <a href="https://github.com/himinji" target="_blank">
 <img src="https://img.shields.io/badge/Github-000?style=social&logo=Github&logoColor=181717"/></a>
-<a href="https://www.instagram.com/minji_rang" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 <a href="hi21minji@gamil.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-000?style=social&logo=Gmail&logoColor=EA4335"/></a>   
 
