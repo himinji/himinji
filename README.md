@@ -22,7 +22,7 @@ I am third year Comp-eng student at Hongik University.
 * Studying Computer Engineering at Hongik University
   * Learning front-end in Hongik GDSC
 * Pursuing a teaching certificate and exploring career option   
-<br>
+
 ### 🌱 I'm studying
 ### 📫 How to reach me   
 <a href="https://github.com/himinji" target="_blank">
