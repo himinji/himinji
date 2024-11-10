@@ -20,5 +20,5 @@ I am third year Comp-eng student at Hongik University.
 ### 🌱 I'm studying
 
 Studying Computer Engineering at Hongik University   
-   Studying front-end in Hongik GDSC   
+   Learning front-end in Hongik GDSC   
 Pursuing a teaching certificate and exploring career options
