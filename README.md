@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - studying **Computer Engineering at Hongik University**
   - learning **front-end development at Hongik GDSC**
 - pursuing **a teaching certificate and exploring career options**
-- 📫 How to reach me **hi21minji@gmail.com**
+### 📫 How to reach me **hi21minji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
