@@ -33,7 +33,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himinji&show_icons=true&locale=en&layout=compact" alt="himinji" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himinji&show_icons=true&locale=en" alt="himinji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himinji&" alt="himinji" /></p>
-
