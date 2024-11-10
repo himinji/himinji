@@ -25,5 +25,5 @@ I am third year Comp-eng student at Hongik University.
 <br>
 ### 📫 How to reach me   
 
-<a href="https://github.com/himinji" target="_blank">
+* <a href="https://github.com/himinji" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
