@@ -22,12 +22,14 @@ I am third year Comp-eng student at Hongik University.
 - pursuing **a teaching certificate and exploring career options**
 
 ### 📫 How to reach me
+<!--
 <a href="https://github.com/himinji" target="_blank">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://instagram.com/minji_rang" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="hi21minji@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/hi21minji@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+-->
 
 <br>
 
