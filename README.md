@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Minji Kwon</h1>
-<h3 align="center">I am third year Comp-eng student at Hongik University.</h3>
-
+### Hi 👋, I'm Minji Kwon
+I am third year Comp-eng student at Hongik University.
+<br>
 ### 🌱 I'm studying
 - studying **Computer Engineering at Hongik University**
   - learning **front-end development at Hongik GDSC**
 - pursuing **a teaching certificate and exploring career options**
+
+<br>
+
 ### 📫 How to reach me
 <a href="hi21minji@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/hi21minji@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
