@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Minji Kwon who is third year Comp-eng student at Hongik University.
+
+## 🌱 I'm studying
+
+Studying Computer Engineering at Hongik University
+Pursuing a teaching certificate and exploring career options
