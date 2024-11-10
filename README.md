@@ -28,10 +28,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/himinji" target="_blank">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
-
-<p align="left">
-<a href="https://instagram.com/minji_rang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minji_rang" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himinji&show_icons=true&locale=en&layout=compact" alt="himinji" /></p>
 
