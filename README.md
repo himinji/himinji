@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - pursuing **a teaching certificate and exploring career options**
 ### 📫 How to reach me
 **hi21minji@gmail.com**
+<a href="hi21minji@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a>
 <p align="left">
 <a href="https://instagram.com/minji_rang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minji_rang" height="30" width="40" /></a>
 </p>
