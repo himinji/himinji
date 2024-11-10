@@ -31,8 +31,6 @@ I am third year Comp-eng student at Hongik University.
 <img src="https://img.shields.io/badge/hi21minji@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
 
-<br>
-
 <a href="https://github.com/himinji" target="_blank">
 <img src="https://img.shields.io/badge/Github-000?style=social&logo=Github&logoColor=181717"/></a>
 <a href="https://www.instagram.com/minji_rang" target="_blank">
@@ -40,6 +38,7 @@ I am third year Comp-eng student at Hongik University.
 <a href="hi21minji@gamil.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-000?style=social&logo=Gmail&logoColor=EA4335"/></a>
 
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himinji&show_icons=true&locale=en&layout=compact" alt="himinji" /></p>
 
