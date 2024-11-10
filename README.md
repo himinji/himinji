@@ -36,7 +36,7 @@ I am third year Comp-eng student at Hongik University.
 <a href="https://www.instagram.com/minji_rang" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 <a href="hi21minji@gamil.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-000?style=social&logo=Gmail&logoColor=EA4335"/></a>
+<img src="https://img.shields.io/badge/Gmail-000?style=social&logo=Gmail&logoColor=EA4335"/></a>   
 
 <br>
 
