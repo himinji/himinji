@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi 👋, I'm Minji Kwon
-#### &nbsp; I am third year Comp-eng student at Hongik University.
+#### &nbsp;&nbsp; I am third year Comp-eng student at Hongik University.
 
 ### 🌱 I'm studying
 - studying **Computer Engineering at Hongik University**
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="hi21minji@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/hi21minji@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 -->
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/himinji" target="_blank">
 <img src="https://img.shields.io/badge/Github-000?style=social&logo=Github&logoColor=181717"/></a>
 <a href="https://www.instagram.com/minji_rang" target="_blank">
