@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi 👋, I'm Minji Kwon
-#### &nbsp;&nbsp; I am third year Comp-eng student at Hongik University.
+#### &nbsp;&nbsp; I’m a senior majoring in Computer Engineering at Hongik University.
 
 ### 🌱 I'm studying
 - studying **Computer Engineering at Hongik University**
