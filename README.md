@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I'm studying
 - studying **Computer Engineering at Hongik University**
-  - learning **front-end development at Hongik GDSC**
+  - learning **front-end development at Hongik GDG**
 - pursuing **a teaching certificate and exploring career options**
 
 ### 📫 How to reach me
